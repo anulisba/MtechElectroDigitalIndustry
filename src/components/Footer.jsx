@@ -14,7 +14,7 @@ const Footer = () => {
                                 <img src={logo} alt="M Tech Electro Digital Industry" />
                             </div>
                             <p className="brand-description">
-                                Pioneering solar and LED technology since 1991 — delivering clean, reliable energy solutions for homes, businesses, and communities across Kerala and beyond.
+                                Pioneering solar and LED technology since 1991 - delivering clean, reliable energy solutions for homes, businesses, and communities across Kerala and beyond.
                             </p>
                             <div className="social-icons">
                                 <a href="https://www.facebook.com" className="social-link" target="_blank" rel="noopener noreferrer">
@@ -48,8 +48,8 @@ const Footer = () => {
                                         </svg>
                                         <div>
                                             <span className="contact-label">Phone</span>
-                                            <span className="contact-value">+91 9349489349</span>
-                                            <span className="contact-value">+91 9447207272</span>
+                                            <span className="contact-value">+91 97445 25892</span>
+
                                         </div>
                                     </li>
                                     <li className="contact-item">
@@ -59,7 +59,7 @@ const Footer = () => {
                                         <div>
                                             <span className="contact-label">Address</span>
                                             <span className="contact-value">M Tech Electro Digital Industry</span>
-                                            <span className="contact-value">Ranni, Pathanamthitta</span>
+                                            <span className="contact-value">Peruvannamuzhi Calicut</span>
                                             <span className="contact-value">Kerala, India</span>
                                         </div>
                                     </li>
