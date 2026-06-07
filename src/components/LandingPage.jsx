@@ -217,7 +217,7 @@ const LandingPage = () => {
 
     const contactus = () => {
         const message = "Hello, I am interested in M Tech Electro Digital Industry products.";
-        window.open(`https://wa.me/919349489349?text=${encodeURIComponent(message)}`, '_blank');
+        window.open(`https://wa.me/919744525892?text=${encodeURIComponent(message)}`, '_blank');
     };
 
     return (
