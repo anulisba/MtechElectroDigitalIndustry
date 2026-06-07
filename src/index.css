@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gilda+Display&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  background-color: #1a1a1a !important;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Services.css */
+
+:root {
+  --green-900: #0a2e0f;
+  --green-800: #134a1a;
+  --green-700: #1a6624;
+  --green-600: #217a2c;
+  --green-500: #2e9e3c;
+  --green-400: #4cb85a;
+  --green-300: #78cc84;
+  --green-200: #b4e3bb;
+  --green-100: #dff2e2;
+  --green-50: #f2fbf4;
+  --accent: #2e9e3c;
+  --accent-dark: #1a6624;
+  --accent-light: #dff2e2;
+  --white: #ffffff;
+  --gray-50: #f8f9f8;
+  --gray-100: #f0f2f0;
+  --gray-200: #e2e5e2;
+  --gray-500: #6b7a6b;
+  --gray-700: #374037;
+  --gray-900: #1a1e1a;
+  --transition: all 0.3s ease;
+  --font-display: 'Playfair Display', 'Georgia', serif;
+  --font-body: 'DM Sans', 'Helvetica Neue', sans-serif;
+}
+
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('./assets/fonts/HarabaraMaisDemo.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}

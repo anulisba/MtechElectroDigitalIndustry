@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gilda+Display&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Plaster&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* src/assets/fonts/fonts.css */
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('./assets/fonts/Harabara\ Mais\ Demo.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
