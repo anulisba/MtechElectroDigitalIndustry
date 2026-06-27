@@ -249,7 +249,7 @@ const LandingPage = () => {
                                     <div className="ad-overlay" />
                                     <div className="ad-content">
                                         <div className="ad-badge">EST. 1991</div>
-                                        <h2>M Tech Electro<br />Digital Industry</h2>
+                                        <h2>M Digital Electro<br />Digital Industry</h2>
                                         <p>Pioneers in Solar & LED Technology — Powering a Sustainable Future</p>
                                         <button onClick={contactus} className="ad-cta-btn">Get In Touch</button>
                                     </div>
