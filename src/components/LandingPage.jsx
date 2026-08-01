@@ -65,7 +65,7 @@ const SplashScreen = ({ onComplete }) => {
                 >
                     M Tech Electro Digital Industry
                 </motion.h1>
-                <motion.h4
+                <motion.h6
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{
@@ -74,7 +74,7 @@ const SplashScreen = ({ onComplete }) => {
                     }}
                 >
                     We are the first in the world to use LED for lighting
-                </motion.h4>
+                </motion.h6>
 
                 <motion.div
                     className="tagline-container"
