@@ -65,6 +65,16 @@ const SplashScreen = ({ onComplete }) => {
                 >
                     M Tech Electro Digital Industry
                 </motion.h1>
+                <motion.h4
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{
+                        duration: 0.8,
+                        delay: 0.4
+                    }}
+                >
+                    We are the first in the world to use LED for lighting
+                </motion.h4>
 
                 <motion.div
                     className="tagline-container"
@@ -249,7 +259,8 @@ const LandingPage = () => {
                                     <div className="ad-overlay" />
                                     <div className="ad-content">
                                         <div className="ad-badge">EST. 1991</div>
-                                        <h2>M Digital Electro<br />Digital Industry</h2>
+                                        <h2>M Digital</h2>
+                                        <h4>We are the first in the world to use LED for lighting</h4>
                                         <p>Pioneers in Solar & LED Technology — Powering a Sustainable Future</p>
                                         <button onClick={contactus} className="ad-cta-btn">Get In Touch</button>
                                     </div>
